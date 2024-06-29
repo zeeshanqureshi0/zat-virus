@@ -18,7 +18,6 @@ echo " "
 echo -e "\e[1m\e[33m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\e[21m"
 sleep 2
 dpkg -s figlet &> /dev/null
-
 if [ $? -eq 0 ]; then
     echo " "
     
@@ -95,8 +94,6 @@ sleep 1
 echo -e "\e[92m "
 read -r -s -p $'Press enter to continue...\n'
 clear
-function back_option(){
-    clear
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
 echo -e "\e[31m"
 figlet "Tiger"
