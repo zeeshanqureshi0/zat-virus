@@ -3,12 +3,12 @@ clear
 echo " "
 echo -e "\e[1m\e[33m============================================\e[21m"
 echo " "
-echo -e "\e[33m Welcome to [\e[1m\e[32mZAT VIRUS\e[21m\e[31m V 2.3\e[33m]"
+echo -e "\e[33m Welcome to [\e[1m\e[32mTIGER VIRUS\e[21m\e[31m V 2.3\e[33m]"
 echo " "
 sleep 1
 echo -e "\e[1m\e[33m============================================\e[21m"
 echo " "
-echo -e "\e[33m•••Developer \e[36m DARK ANONYMOUS PK☠️🇵🇰\e[33m•••"
+echo -e "\e[33m•••Script by \e[36mThe Devil Tigers\e[33m•••"
 echo " "
 echo -e "\e[1m\e[33m••••••••••••••••••••••••••••••••••••••••••••\e[21m"
 echo " "
@@ -18,6 +18,7 @@ echo " "
 echo -e "\e[1m\e[33m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\e[21m"
 sleep 2
 dpkg -s figlet &> /dev/null
+
 if [ $? -eq 0 ]; then
     echo " "
     
@@ -72,7 +73,7 @@ else
 
 echo -e "\e[1m\e[33m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\e[21m"
     echo " " 
-                    echo -e "\e[36m >>> STARTING ZAT VIRUS..."
+                    echo -e "\e[36m >>> STARTING TIGER VIRUS..."
                     echo " "
                     sleep 2
                     
@@ -95,6 +96,7 @@ echo -e "\e[92m "
 read -r -s -p $'Press enter to continue...\n'
 clear
 function back_option(){
+    clear
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
 echo -e "\e[31m"
 figlet "Tiger"
@@ -752,351 +754,4 @@ cd ..
 mv Tvirus22. Tvirus22.txt
 
 
-echo "••••••••••••••••••100%"|pv -qL 10
-
-echo " "
-sleep 1
-echo -e "\e[35mTviris22.txt File Downloaded Successfully"
-echo " "
-sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus22.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
-echo -e "\e[96mYour INTERNAL STORAGE "
-echo -e "\e[96mCopy Paste The Text Several Times"
-echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus22.txt"
-echo -e "\e[96mThen COPY The Text "
-
-elif [ $option2 -eq 23 ]
-then
-echo -e "\e[35m~Downloading Max Virus BOMB Message 23"|pv -qL 20
-sleep 1
-echo -e "\e[94m"
-cd •
-cp Tvirus23. ..
-cd ..
-mv Tvirus23. Tvirus23.txt
-
-
-echo "••••••••••••••••••100%"|pv -qL 10
-
-echo " "
-sleep 1
-echo -e "\e[35mTviris23.txt File Downloaded Successfully"
-echo " "
-sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus23.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
-echo -e "\e[96mYour INTERNAL STORAGE "
-echo -e "\e[96mCopy Paste The Text Several Times"
-echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus23.txt"
-echo -e "\e[96mThen COPY The Text "
-elif [ $option2 -eq 24 ]
-then
-echo -e "\e[35m~Downloading Max Virus BOMB Message 24"|pv -qL 20
-sleep 1
-echo -e "\e[94m"
-cd •
-cp Tvirus24. ..
-cd ..
-mv Tvirus24. Tvirus24.txt
-
-
-echo "••••••••••••••••••100%"|pv -qL 10
-
-echo " "
-sleep 1
-echo -e "\e[35mTviris24.txt File Downloaded Successfully"
-echo " "
-sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus24.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
-echo -e "\e[96mYour INTERNAL STORAGE "
-echo -e "\e[96mCopy Paste The Text Several Times"
-echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus24.txt"
-echo -e "\e[96mThen COPY The Text "
-elif [ $option2 -eq 25 ]
-then
-echo -e "\e[35m~Downloading Max Virus BOMB Message 25"|pv -qL 20
-sleep 1
-echo -e "\e[94m"
-cd •
-cp Tvirus25. ..
-cd ..
-mv Tvirus25. Tvirus25.txt
-
-
-echo "••••••••••••••••••100%"|pv -qL 10
-
-echo " "
-sleep 1
-echo -e "\e[35mTviris25.txt File Downloaded Successfully"
-echo " "
-sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus25.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
-echo -e "\e[96mYour INTERNAL STORAGE "
-echo -e "\e[96mCopy Paste The Text Several Times"
-echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus25.txt"
-echo -e "\e[96mThen COPY The Text "
-elif [ $option2 -eq 26 ]
-then
-echo -e "\e[35m~Downloading Max Virus BOMB Message 26"|pv -qL 20
-sleep 1
-echo -e "\e[94m"
-cd •
-cp Tvirus26. ..
-cd ..
-mv Tvirus26. Tvirus26.txt
-
-
-echo "••••••••••••••••••100%"|pv -qL 10
-
-echo " "
-sleep 1
-echo -e "\e[35mTviris26.txt File Downloaded Successfully"
-echo " "
-sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus26.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
-echo -e "\e[96mYour INTERNAL STORAGE "
-echo -e "\e[96mCopy Paste The Text Several Times"
-echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus26.txt"
-echo -e "\e[96mThen COPY The Text "
-elif [ $option2 -eq 27 ]
-then
-echo -e "\e[35m~Downloading Max Virus BOMB Message 27"|pv -qL 20
-sleep 1
-echo -e "\e[94m"
-cd •
-cp Tvirus27. ..
-cd ..
-mv Tvirus27. Tvirus27.txt
-
-
-echo "••••••••••••••••••100%"|pv -qL 10
-
-echo " "
-sleep 1
-echo -e "\e[35mTviris27.txt File Downloaded Successfully"
-echo " "
-sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus27.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
-echo -e "\e[96mYour INTERNAL STORAGE "
-echo -e "\e[96mCopy Paste The Text Several Times"
-echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus27.txt"
-echo -e "\e[96mThen COPY The Text "
-elif [ $option2 -eq 28 ]
-then
-echo -e "\e[35m~Downloading Max Virus BOMB Message 28"|pv -qL 20
-sleep 1
-echo -e "\e[94m"
-cd •
-cp Tvirus28. ..
-cd ..
-mv Tvirus28. Tvirus28.txt
-
-
-echo "••••••••••••••••••100%"|pv -qL 10
-
-echo " "
-sleep 1
-echo -e "\e[35mTviris28.txt File Downloaded Successfully"
-echo " "
-sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus28.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
-echo -e "\e[96mYour INTERNAL STORAGE "
-echo -e "\e[96mCopy Paste The Text Several Times"
-echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus28.txt"
-echo -e "\e[96mThen COPY The Text "
-elif [ $option2 -eq 29 ]
-then
-echo -e "\e[35m~Downloading Max Virus BOMB Message 29"|pv -qL 20
-sleep 1
-echo -e "\e[94m"
-cd •
-cp Tvirus29. ..
-cd ..
-mv Tvirus29. Tvirus29.txt
-
-
-echo "••••••••••••••••••100%"|pv -qL 10
-
-echo " "
-sleep 1
-echo -e "\e[35mTviris29.txt File Downloaded Successfully"
-echo " "
-sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus29.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
-echo -e "\e[96mYour INTERNAL STORAGE "
-echo -e "\e[96mCopy Paste The Text Several Times"
-echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus29.txt"
-echo -e "\e[96mThen COPY The Text "
-elif [ $option2 -eq 30 ]
-then
-echo -e "\e[35m~Downloading Max Virus BOMB Message 30"|pv -qL 20
-sleep 1
-echo -e "\e[94m"
-cd •
-cp Tvirus30. ..
-cd ..
-mv Tvirus30. Tvirus30.txt
-
-
-echo "••••••••••••••••••100%"|pv -qL 10
-
-echo " "
-sleep 1
-echo -e "\e[35mTviris30.txt File Downloaded Successfully"
-echo " "
-sleep 1
-
-echo -e "\e[96mNow Type :- cp Tvirus30.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
-echo -e "\e[96mYour INTERNAL STORAGE "
-echo -e "\e[96mCopy Paste The Text Several Times"
-echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus30.txt"
-echo -e "\e[96mThen COPY The Text "
-else 
-echo " "
-echo -e "\e[95m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%"
-echo "•••Sorry Please choose Correct OPTION•••"
-echo -e "\e[95m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%"
-fi
-elif [ $option1 -eq 4 ]
-then 
-clear 
-echo -e "\e[31m"
-figlet "set"
-echo -e "\e[31m"
-figlet "aakk"
-sleep 1
-clear
-echo -e "\e[31m"
-figlet "set"
-echo -e "\e[31m"
-figlet "aakk"
-sleep 1
-clear
-echo -e "\e[31m"
-figlet "power"
-echo -e "\e[31m"
-figlet "varatte"
-sleep 1
-clear
-echo -e "\e[31m"
-figlet "power"
-sleep 2
-clear
-echo -e "\e[33m💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥"
-echo " "
-echo -e "\e[32m    DOWNLOADING POWER VIRUS"|pv -qL 20
-echo -e "\e[32m         BOMB MESSAGE...."|pv -qL 20
-echo " "
-echo -e "\e[33m💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥"
-echo " "
-sleep 2
-echo " "
-echo " "
-echo " " 
-echo " "
-echo " "
-echo " "
-echo -e "\e[32m      P̵̧̧̢̡̧̨̡̛̛̛̛̛͇͈͈̣̦̬̟̬̲͇̬͇̲̙̺̣̝̠̣̹̥͎̻̘̟͈̼̗̻̻̖̦̫̼̹͖̮̠̮̥͍̙͔̝͙̼͔̮̺̬̞̬͈͍̗̯͔͔͈̬͍̠̺̘̩͓̫̜͈͙̣͔͉̮̲̹̟͈̪͊͂̉̄͗̀̃̾̈́̽̓̌͐̂̀́̊́͆̊̌̈́̑͑̉̄̏̃̃̈́̈́̓͗̊̀̄́͂́͋͌̅̅̐̉̑͑̎̽͒͐̐̈́͛͑̿͌͊̓̐̊͊͆̂̎͐͋̈́́̓͛̾͆̏̀̐̄̏̂̇̑̈́̍͗̒̊̓͑̓̽̄̓̑̇͑̉̋̄̄̃͌̀͛̀͊̈̊͑͒́̾́͋̉̄̏͑̆̐̊͂̐̎͗̓͌̆̃̊̋̾̐̇̂̈́̈̂͌͌̓̄̓̑̈̓̀̒̾̾̾͌̐̽̇̃̄̋̎̓͊̀͆́̈̂͊̃̈̾͗̏̾͑͂̓̆̆̑̉̊͂̈́̾̽̆̋̌̏͂̿͑̃̌̕͘̚͘͘̕̚͜͜͝͝͝͠͝͠͝͠͝͝͝͠͠͝͝͝͝ͅƠ̴̧̧̢̨̡̧̨̧̧̡̧̧̢̡̨̧̨̢̢̛̳͕͓̼̗̳̟̞͍̥͕̜̖̩͓͉̺̙̻̙͔̞͇̤̱̜̟̗͉̖̗̦̩̱̟͉̥͖̖̠̪̥̝̩̹̜̖̟̬̭͓̯͈͖̻̺͕͖̘̦͈̫̥͓̟̯̲̮͕̳̺͖̠̝̠̳̪͍̬̙͕͓̝͔͔̦̝͚͈͓͎̼̪̤̩͖̳̦̞̥͍̪͍̺̤̳̘͖̖̣̤͓͉̮̮͔͙͉̣̗͕̘̘̙̦̖̮͉̳̜̱̤̺̣̗̣̳̻͔̭̦̘̙̯͕̩͍͈͕͎̥̣̩̬̠̘̦̦̜̝̜͆͆̎̿͐̊̏͗̎͒͛̐̐͂̐͋̐̓̈͌̓̈́̏̄̈͑͌̆͜͜͝͝͝͝͝ͅͅW̸̡̡̨̡̡̡̨̡̢̡̧̢̧̨̢̢̢̧̨̡̛̛̛̛̛̛̗̘̙̞̠̠͖̪̱̻̣͍͙̖͕̩̣͍̪̱̲̖͉̞̯̲̖͓̭̟̦͙͓͉͙͎̬̯͓̯̮̯̖͍̪̲̤͓͍͔͇̙̙̙̮̲̗̟̺̠̬̮̠̩̗̼͙͓̰̖͖͇̙͙̜̘̪͔̱͍̞̣̞̲͎̟͎̱̝͇̣̥͇̤̣̹͍͉̖̳̲̙̻͕͍̺̩͎͇͕̱̘͉̜̺̞͓̫͖͈̤͕͉͉͔̻͖̫͉̟̺̳͉̪̭̠̫͔͕̩̫͙̫̗̪͇̮͎̟̦̮͈̹͎͈̜͍̯̗̠͇̘͚̥̝̝̺͉̠̬̘̲͓̻̮͖͉͙̤̬̪͕͔͎̭̼̯͖̻̗͎̜̖̣̻̞̲̬̟̯̖̦̰̰̼̳̙̥̤̗̄͌͛̌͋͊͂͗̍͆̉̀̈̍̔̉̊̃͌̒͌̒̔͛̔̎̈́̾́̋̃̈́̀̾̈̾͂̎̉͂̓̍̏͂͂̒́͐͐̽̿͒̾̐͋̏̂̈͗͂̇͒̽̀̔̈̇̅̑̋̄̔̊̏̍͛̓̿̌̓̈̊̏͑̎̈͗͗͊̓̾́͊̓̐̌̒̅͂̀͒̐͛̆̃̂͆̏̓͛̉̽̑̀̃̆̑̂͋̊̃̉̑͆̈́̒̊͗̈́̍͗̔͑̌̄̈́̀͆̃́̔̎͆̅̅̃̓̐̉́̉̀̃̓́̒̏͂͆̐̾̓͌̓̊̋̄̾̆̂̌̉̉̓͊͆̉̾̒͒̽̏̌̉̅͗̀̀̒̇̄̆̒̄̈́̏̀́̒̓̈́̅̈́͗̂͒̾̀̂͐͊̋̓͂͘̚̚̕͘̚̕͘͘͘̕͘͜͜͜͜͜͜͝͝͝͠͝͝͝͠͝͝͝͠͠͝͝͠͠͝͠͠͝ͅͅͅͅͅͅͅͅͅͅE̴̢̢̡̧̢̢̧̡̧̨̨̢̡̨̧̢̛̬̝̮̣̥̫͔͙̰̩̙̞̜̠̫̺̤͍̮̪̹͍̼̲̦̖̱̠̬̼̙̘͔̟̻͍̠͈̣̪̼͉̝͚̻̟̯͇̤͍͓͓̲̰̲̘͉̫̗̜̗̞̻̟̱̺͎̗̗̝͇̳͇͖͉̲͇̤͍͉̪͉̺̮͖̫̝̲̬͎̦̤͙̣͚̥̲̟͈̻̜̳̮͉̠̮̞̩̗̫̬̖̯̗͙̪̯̞̦͖̖̰͔̩̻̪̦͈̻͖̦͖̦͔̟͇͇͓̝̦̻̩̻̗̲͖̬̼͍̠̫̦̫͔̫̠̫̟͈̣̯̲̤̪̙̬̠̻̲͙͙̘̭̯͈͚̥̯͈̹̠͇̟̗̻̠̜̟͕͉̱̝̘͕͔͔͉̫͖̩̳͔̻͇̻͇͔̯̲̗̜͎̱̪͎͇̤͎̥̣̠͉̫̪̭̣̲̜̬̤͔̠͍̱̭̖̓̓́̈̽̄̇̊̈͆̉͗̅̋̅͑̊̔̌͗̑̃͌̍̀̽͑͐͒̇̆̈́͆̋̈́̈̀̃̄̈͊̍̍̃̔̓̓̑́̍̀̉̅͋͆͒̇̈̿̆͊̄̂͒̑͐̓̈́̌̂̋͗̐̏̆̇͑̆̄̑̀͘̕͘̚̚͘̚̕͘͜͜͜͜͜͠͝͠͝͠͠ͅͅͅͅͅͅR̷̨̢̹̼̩̼̼͓̭̫̝͔̞͈̜̻͚̙̓́̑͋́̓̔̿͗̏̅̉̂̈̀͒͛͌́̀͂̽̄͒͗͂̈̊͐̾̇̈́̾̎͆̃͋̀̆̾́͛͐̽͒͊̕̕̕̚͘͘͜͠͝͝͝"|pv -qL 1000
-sleep 2
-echo " "
-echo " "
-echo " "
-echo " " 
-echo " "
-echo " "
-sleep 1
-clear
-echo -e "\e[33m💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥"
-echo " "
-echo " "
-
-echo -e "\e[32mṬ̸̩͇̥̳͉̣̯͚̺̖̱́͋̕Ỉ̷͓̭̮̠̎̄̒̆ͅG̵͉͕̤̺̟̳̖̱͌͗̊̑̄͝Ë̵͙́̎̑́͐̓̈́̔̕R̷̪͈̺͍̂̃̍̉̇̍̓̀͊̕ ̶̧̥͎̠͉̲̈́́̇̊̓͌̌̀̉̐H̷̢̫͉̩̝͖̖͉͉̄̊̏̋̔͜͠A̸̜̠̫̞̮̭̖͈̥͉͂͒̉̆̆̀͂̚͝͝C̸͎̰̩̪̠̜̜̥̱͎̫̊̆̀̆͊̓̅̀̀̉͊́͜͝ͅK̶̙̯͚͕̇̇̈̈̐̇͗̊̾̔̆́͜Ȩ̶͚̣̩̰̣̥̣͇̙͉̭̓̍̾͌̍͐̌̊̕Ṛ̸̗̿̑͆͒̉́̄͂̍̉̚"|pv -qL 200
-echo " "
-echo -e "\e[33m💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥"
-echo " "
-sleep 2
-echo " "
-echo -e "\e[34m "
-cd •
-
-cp TigerPower. ..
-cd ..
-mv TigerPower. TigerPower.txt
-
-echo "••••••••••••••••••100%"|pv -qL 10
-
-echo " "
-echo -e "\e[32mPOWER VIRUS BOMB Downloaded Successfully"
-echo " "
-sleep 1
-echo -e "\e[96mNow Type :- cp TigerPower.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
-echo -e "\e[96mYour INTERNAL STORAGE "
-echo -e "\e[96mOr Type :- cat TigerPower.txt"
-echo -e "\e[96mThen COPY The Text "
-
-else 
-
-echo " "
-echo -e "\e[95m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%"
-echo "•••Sorry Please choose option 1 or 2 or 3 or 4•••"
-echo -e "\e[95m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%"
-fi
-
-elif [ $optionfirst -eq 1 ]
-then
-clear
-                                                                                                                                                               
-echo " "
-bash app.sh
-else
-echo " "
-echo -e "\e[95m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%"
-echo "•••Sorry Please choose option 1 or 2•••"
-echo -e "\e[95m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%"
-fi                                                                                                                                                    
-                                                                                                                                                    
-                                             
-}
-
-back_option
-
-echo -e "\e[92m========================================== "
-echo -e "\e[93m[1] To Go Back"
-echo -e "\e[93m[2] To Exit "
-
-echo -e "\e[92m "
-read -p "CHOOSE AN OPTION : " be 
-if [ $be -eq 1 ]
-then
-back_option
-elif [ $be -eq 2 ]
-then
-echo -e "\e[39m"
-else
-echo -e "\e[39m"
-fi
-echo -e "\e[95m÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷"
-echo -e "\e[103m     •••FOR MORE DETAILS•••. "
-echo -e "\e[103mSEARCH *The Devil Tigers*"
-echo -e "\e[103m       •••ON YOUTUBE•••      \e[49m"
-echo -e " \e[39m"
-echo -e "\e[95m÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷"
-echo -e "\e[39m"
+echo "••••••••••••••••••100%
